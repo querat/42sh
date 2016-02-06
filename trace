@@ -1,0 +1,11 @@
+Simple exec : OK OK OK OK 
+Change the PATH : OK OK OK OK OK OK 
+Builtins : OK OK OK OK 
+Update PATH : OK 
+Space and tab char : OK OK OK 
+Separator ';' : OK OK OK OK OK OK OK 
+Simple pipe : OK OK OK 
+Multi pipe : OK OK OK 
+Do you have Zombie ? : OK 
+Redirect char : OK OK OK OK OK OK OK 
+Redirect AND pipe : OK OK OK OK 
